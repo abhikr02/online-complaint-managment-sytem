@@ -1,0 +1,121 @@
+
+
+#logofont{
+    font-size: 30px;
+    font-family: fantasy;
+    color: rgb(10, 32, 82);   
+}
+#abc{
+background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(1, 187, 224));    
+    box-shadow: 5px solid paleturquoise;
+    width: full;
+    height: 3rem;
+    justify-content: space-evenly;
+}
+
+
+#navAllItem{
+    font-size: 1.3rem;
+    justify-content: flex-end;
+    
+    
+}
+
+
+#homenav:hover{
+    color: green;
+}
+#rateingg{
+    border-radius: 4px;
+    margin-top: 140px;
+  margin-left: 80px;
+    
+    justify-content: flex-end;
+}
+.containerr{
+    display: flex;
+    flex-direction: row-reverse;
+    
+    justify-content: space-between;
+    gap: 10px;
+}
+
+#one{
+    width: 190px;
+    height: 160px;
+    background-image: linear-gradient(to right, rgba(0, 255, 89, 0.444), rgb(224, 1, 53));    
+    justify-items: center;
+    border-radius: 4px;
+}
+#one:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+    filter: saturate(300%);
+    box-shadow: 0.2rem .2rem #0006;
+    transition: ease-in-out;
+    transition-duration: 1s;
+    rotate: 360deg;
+}
+#two{
+    width: 190px;
+    height: 160px;
+    background-image: linear-gradient(to right, rgba(0, 81, 255, 0.444), rgb(1, 224, 1));  
+    justify-items: center;
+    border-radius: 4px;
+}
+#two:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+    filter: saturate(300%);
+    box-shadow: 0.2rem .2rem #0006;
+    transition: ease-in-out;
+    transition-duration: 1s;
+    rotate: 360deg;
+}
+#threee{
+    width: 190px;
+    height: 160px;
+    background-image: linear-gradient(to right, rgba(154, 80, 128, 0.444), rgb(1, 224, 131));  
+    justify-items: center;
+   
+    border-radius: 4px;
+}
+#threee:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+    filter: saturate(300%);
+    box-shadow: 0.2rem .2rem #0006;
+    transition: ease-in-out;
+    transition-duration: 1s;
+    rotate: 360deg;
+}
+
+#reviewicon{
+    background-image: url(review.png);
+    mix-blend-mode: multiply;
+    filter: contrast(2);
+    background-size: cover;
+    width: 70px;
+    height: 70px;
+}
+
+#sitevisit{
+    background-image: url(images\ \(2\)[1].png);
+    mix-blend-mode: multiply;
+    filter: contrast(2);
+    background-size: cover;
+    width: 70px;
+    height: 70px;
+}
+
+#Totalcom{
+    background-image: url(images\ \(3\)[1]\ \(1\).png);
+    mix-blend-mode: multiply;
+    filter: contrast(10);
+    background-size: cover;
+    width: 70px;
+    height: 70px;
+}
+
+
+
