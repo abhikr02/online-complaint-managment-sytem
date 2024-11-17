@@ -72,7 +72,7 @@ This section has moved here: [Check Out](https://facebook.github.io/create-react
 ## Support
 For Support, email abhishek.kr.git02@gmail.com or [GitHub](https://github.com/abhikr02)
 
-## Authers
+## Author
 [@Abhishek Kumar](https://github.com/abhikr02)
 
 ## Team Members
