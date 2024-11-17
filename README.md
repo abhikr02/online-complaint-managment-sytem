@@ -70,13 +70,13 @@ This section has moved here: [Check Out](https://facebook.github.io/create-react
 This section has moved here: [Check Out](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## Support
-For Support, email abhishek.kr.git02@gmail.com or [GitHub](https://github/abhikr02)
+For Support, email abhishek.kr.git02@gmail.com or [GitHub](https://github.com/abhikr02)
 
 ## Authers
-[@Abhishek Kumar](https://github/abhikr02)
+[@Abhishek Kumar](https://github.com/abhikr02)
 
 ## Team Members
-  1. [@Md Nurullah](https://github/SheikhNoor)
-  2. [@Md Sadab](https://github/charlie0079)
-  3. [@Md Altamash](https://github/ASAD072021)
+  1. [@Md Nurullah](https://github.com/SheikhNoor)
+  2. [@Md Sadab](https://github.com/charlie0079)
+  3. [@Md Altamash](https://github.com/ASAD072021)
 
