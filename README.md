@@ -241,5 +241,3 @@ For support, email abhishek.kr.git02@gmail.com or visit [GitHub](https://github.
 ## Team Members
 1.  [@Abhishek Kumar](https://github.com/abhikr02)
 2.  [@Md Nurullah](https://github.com/SheikhNoor) 
-3.  [@Md Sadab](https://github.com/charlie0079)
-4.  [@Md Altamash](https://github.com/ASAD072021)
